@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Анна Горбунова](https://up.htmlacademy.ru/javascript/21/user/1064673).
-* Наставник: `Неизвестно`.
+* Наставник: [Павел Старчиков](https://htmlacademy.ru/profile/id921875).
 
 ---
 
